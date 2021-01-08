@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding-top: 700px;
+}
+#welcome{
+    background-image: linear-gradient(purple,cyan,orange);
+    padding: 35px;
+    height:900px;
+    opacity: 0.83;
+}
+#profile{
+    width: 300px;
+height: 300px;
+border-radius: 50%;
+}
+h1{
+    font-size:50px;
+    line-height: 1.2;
+    color: darkgreen;
+    font-family:cursive;
+}
+#name{
+    font-size: 60px;
+    font-family: curcive;
+}
+h2{
+    font-size: 35px;
+    color:deeppink;
+ font-family: sans-serif;
+}
+#youtube{
+    font-family: inherit;
+    color:coral;
+    font-size: 40px;
+}
